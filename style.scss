@@ -1,41 +1,45 @@
-body{
+body {
   background-color: #D9C9AA;
+  font-size: 20px;
+  font-family: 'Red Rose', cursive;
 }
 
 .footer-area {
   background: #252525;
 }
 
-
-.Mededeling{
-background-color: #6B7C91;
-  padding-bottom:30px;
-  padding-top:10px;
+.Mededeling {
+  background-color: #6B7C91;
+  padding-bottom: 30px;
+  padding-top: 10px;
   margin-bottom: 50px;
-  width:95%;
+  width: 95%;
   margin-left: fill;
   box-shadow: 10px 10px 5px grey;
   padding-left: 5px;
 
 }
-.carousel-inner{
+
+.carousel-inner {
   background-color: #F7892F;
 }
-.cardfaction{
 
-  width:10%;
-  Height:10%;
+.cardfaction {
+
+  width: 10%;
+  Height: 10%;
 }
 
-.cardjunior{
+.cardjunior {
 
-  width:10%;
-  Height:10%;
+  width: 10%;
+  Height: 10%;
 }
-.cardsweethaze{
 
-  width:10%;
-  Height:10%;
+.cardsweethaze {
+
+  width: 10%;
+  Height: 10%;
 }
 
 .center {
@@ -44,74 +48,82 @@ background-color: #6B7C91;
   margin-right: auto;
   width: 50%;
 }
-.agenda{
+
+.agenda {
 
   background-color: #F7892F;
   margin-bottom: 30px;
-  padding-top:10px;
-  width:95%;
-  height:80%;
+  padding-top: 10px;
+  width: 95%;
+  height: 80%;
   box-shadow: 10px 10px 5px grey;
   padding-left: 5px;
 }
-.h2{
+
+.h2 {
   background-color: #D9C9AA;
 }
 
-.Informatie{
+.icon {
+  height: 30px;
+  width: 30px;
+}
+
+.Informatie {
   background-color: #6B7C91;
-  width:95%;
-  padding-top:10px;
+  width: 95%;
+  padding-top: 10px;
   margin-bottom: 30px;
   box-shadow: 10px 10px 5px grey;
   padding-bottom: 30px;
   padding-left: 5px;
 }
 
-.History{
+.History {
   background-color: #F7892F;
   margin-bottom: 30px;
-  padding-top:10px;
-  width:95%;
-  height:80%;
+  padding-top: 10px;
+  width: 95%;
+  height: 80%;
   box-shadow: 10px 10px 5px grey;
   padding-right: 5px;
   padding-bottom: 30px;
   padding-left: 5px;
 }
 
-.picturesOka{
+.picturesOka {
   height: 30%;
-  width:30%;
-  float:left;
+  width: 30%;
+  float: left;
 }
 
 .verhuur {
   background-color: #6B7C91;
-  padding-bottom:30px;
-  padding-top:10px;
+  padding-bottom: 30px;
+  padding-top: 10px;
   margin-bottom: 50px;
-  width:95%;
+  width: 95%;
   margin-left: fill;
   box-shadow: 10px 10px 5px grey;
   padding-left: 5px;
 }
 
-.Contact{
+.Contact {
   background-color: #F7892F;
   margin-bottom: 30px;
-  padding-top:10px;
-  width:95%;
-  height:80%;
+  padding-top: 10px;
+  width: 95%;
+  height: 80%;
   box-shadow: 10px 10px 5px grey;
   padding-right: 5px;
   padding-bottom: 30px;
   padding-left: 5px;
 }
 
-.form-area{
-  height:30px;
+.form-area {
+  height: 30px;
 }
+
 .footer-area .social-icon li {
   display: inline-block;
 }
@@ -142,8 +154,7 @@ background-color: #6B7C91;
   background-image: none;
 }
 
-.carousel-control-next-icon:after
-{
+.carousel-control-next-icon:after {
   content: '>';
   font-size: 55px;
   color: red;
@@ -154,10 +165,11 @@ background-color: #6B7C91;
   font-size: 55px;
   color: red;
 }
-button{
+
+button {
   background-color: #F7C431;
 }
-/* footer to edit later
+
 .footer-area .social-icon li a:hover {
   color: #fff;
 }
@@ -166,25 +178,14 @@ button{
   background: #3B5998;
 }
 
-.footer-area .social-icon li .twitter:hover {
+.footer-area .social-icon li .e-mail:hover {
   background: #00aced;
-}
-
-.footer-area .social-icon li .instagram:hover {
-  background: #fb3958;
-}
-
-.footer-area .social-icon li .foursqare:hover {
-  background: #25a0ca;
 }
 
 .footer-area .social-icon li .google:hover {
   background: #d34836;
 }
 
-.footer-area .social-icon li .spotify:hover {
-  background: #1db954;
-}
 
 .footer-area .footer-text p {
   font-size: 14px;
@@ -239,22 +240,4 @@ button{
   color: #E91E63;
 }
 
-#copyright {
-  background: #333;
-}
 
-#copyright p {
-  line-height: 42px;
-  color: #fff;
-  margin: 0;
-}
-
-#copyright p a {
-  color: #fff;
-}
-
-#copyright p a:hover {
-  color: #E91E63;
-}
-
- */

@@ -1,5 +1,7 @@
 body {
-  background-color: #D9C9AA; }
+  background-color: #D9C9AA;
+  font-size: 20px;
+  font-family: 'Red Rose', cursive; }
 
 .footer-area {
   background: #252525; }
@@ -46,6 +48,10 @@ body {
 
 .h2 {
   background-color: #D9C9AA; }
+
+.icon {
+  height: 30px;
+  width: 30px; }
 
 .Informatie {
   background-color: #6B7C91;
@@ -136,106 +142,59 @@ body {
 button {
   background-color: #F7C431; }
 
-/* footer to edit later
 .footer-area .social-icon li a:hover {
-  color: #fff;
-}
+  color: #fff; }
 
 .footer-area .social-icon li .facebook:hover {
-  background: #3B5998;
-}
+  background: #3B5998; }
 
-.footer-area .social-icon li .twitter:hover {
-  background: #00aced;
-}
-
-.footer-area .social-icon li .instagram:hover {
-  background: #fb3958;
-}
-
-.footer-area .social-icon li .foursqare:hover {
-  background: #25a0ca;
-}
+.footer-area .social-icon li .e-mail:hover {
+  background: #00aced; }
 
 .footer-area .social-icon li .google:hover {
-  background: #d34836;
-}
-
-.footer-area .social-icon li .spotify:hover {
-  background: #1db954;
-}
+  background: #d34836; }
 
 .footer-area .footer-text p {
   font-size: 14px;
   margin-top: 20px;
-  color: #fff;
-}
+  color: #fff; }
 
 .footer-area .footer-text p a {
-  color: #E91E63;
-}
+  color: #E91E63; }
 
 .footer-area .footer-text .nav-inline .nav-link {
   padding: 11px 7px;
-  color: #888;
-}
+  color: #888; }
 
 .footer-area .footer-text .nav-inline .nav-link:hover {
-  color: #E91E63;
-}
+  color: #E91E63; }
 
 .footer-2 {
-  background: #252525;
-}
+  background: #252525; }
 
 .footer-2 img {
-  margin-top: -8px;
-}
+  margin-top: -8px; }
 
 .footer-2 h3 {
   font-size: 20px;
   color: #fff;
   font-weight: 700;
   padding-bottom: 10px;
-  letter-spacing: 0.5px;
-}
+  letter-spacing: 0.5px; }
 
 .footer-2 p {
   font-size: 14px;
   color: #fff;
   line-height: 20px;
   margin: 0;
-  padding-right: 50px;
-}
+  padding-right: 50px; }
 
 .footer-2 ul li a {
   color: #fff;
   font-size: 13px;
-  font-weight: 400;
-}
+  font-weight: 400; }
 
 .footer-2 ul li a:hover {
-  color: #E91E63;
-}
-
-#copyright {
-  background: #333;
-}
-
-#copyright p {
-  line-height: 42px;
-  color: #fff;
-  margin: 0;
-}
-
-#copyright p a {
-  color: #fff;
-}
-
-#copyright p a:hover {
-  color: #E91E63;
-}
-
- */
+  color: #E91E63; }
 
 /*# sourceMappingURL=style.css.map */
