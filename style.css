@@ -93,6 +93,9 @@ body {
   padding-bottom: 30px;
   padding-left: 5px; }
 
+.form-area {
+  height: 30px; }
+
 .footer-area .social-icon li {
   display: inline-block; }
 
