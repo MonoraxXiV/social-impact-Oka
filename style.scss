@@ -6,6 +6,7 @@ body{
   background: #252525;
 }
 
+
 .Mededeling{
 background-color: #6B7C91;
   padding-bottom:30px;
@@ -45,9 +46,22 @@ background-color: #6B7C91;
 .agenda{
 
   background-color: #F7892F;
+  margin-bottom: 30px;
+  padding-top:10px;
+  width:95%;
+  height:80%;
+  box-shadow: 10px 10px 5px grey;
 }
 .h2{
   background-color: #D9C9AA;
+}
+
+.Informatie{
+  background-color: #6B7C91;
+  width:95%;
+  padding-top:10px;
+  margin-bottom: 30px;
+  box-shadow: 10px 10px 5px grey;
 }
 .footer-area .social-icon li {
   display: inline-block;
@@ -70,6 +84,30 @@ background-color: #6B7C91;
   -o-transition: all 0.3s ease-in-out 0s;
 }
 
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: red;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: red;
+}
+button{
+  background-color: #F7C431;
+}
 /* footer to edit later
 .footer-area .social-icon li a:hover {
   color: #fff;
